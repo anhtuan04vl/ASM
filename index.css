@@ -129,11 +129,13 @@ li {
     background-color: blue;
     
 }
+.jdk{max-width: 1200px;
+    margin: auto;
+}
 .td-select-menu{
     float: left;
     font-size: 20px;
-    padding-left: 30px;
-    padding-right: 47px;
+    
     color: aliceblue;
     line-height: 46px;
     text-decoration: none;
