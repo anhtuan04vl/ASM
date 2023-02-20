@@ -859,7 +859,7 @@ script {
     width: 825px;
     height: 113px;
     margin: 5px;
-    background-image: url(../images/bg-traffic.png);
+    background-image: url(images/bg-traffic.png);
     background-repeat: no-repeat;
 }
 .td-trafic {
